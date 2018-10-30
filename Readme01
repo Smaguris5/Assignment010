@@ -1,0 +1,12 @@
+Tiek student tiek grade klaseje turiu visus variables reikalingus (bent jau taip atrodo)
+taip pat kaip ir budus kaip gauti individual rezulatatus pvz: vardas, id ar email.
+GradeProfile yra 2 methods 
+1-prideti grades y grade clases lista - addGrade
+2-loop'as kad parodytu visus grade rezultatus
+
+Program.cs tiesiog yrasiau info apie students ir grades ir storinu y listus.
+
+Reikia man kazkokiu budu priristi tuos grades prie studento. Nezinau kaip padaryti reiketu, 
+jei mokeciau listo viduj dar viena lista storinti tada pasirinkus studenta galeciau prideti 
+skirtingus assignmentus. Zinau minejai kitoky buda, tik nepagaunu kaip su tom klasem suzaisti 
+kad susiristu student ir grades ...
